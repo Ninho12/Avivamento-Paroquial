@@ -1,0 +1,56 @@
+body{
+    background-color: #999;
+}
+
+div{
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 10px auto;
+    text-align: center;
+    border: 2px solid #333 ;
+    width: 90%;
+}
+
+img{
+    width: 190px;
+    margin: 10px auto;   
+}
+
+.secao-livro img{
+    border: 1px solid #333;
+    box-shadow: 10px 5px 5px black;
+}
+
+.secao-autor img{
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    line-height: 28px;
+}
+
+a{
+    background-color: green;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+span{
+    font-weight: bold;
+}
